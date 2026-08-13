@@ -28,6 +28,7 @@ A ranked table of the top 10 customers by revenue
 Screenshots
 
 https://github.com/Snehaingale777/Sales_Analytics_MsFabric_PowerBI/blob/main/pipeline%20sales%20analytics.jpg
+https://github.com/Snehaingale777/Sales_Analytics_MsFabric_PowerBI/blob/main/lakehouse%20fact%20table.jpg
 
 [add your screenshots here: pipeline, Lakehouse tables, warehouse view/stored procedure, RLS setup, dashboard]
 
