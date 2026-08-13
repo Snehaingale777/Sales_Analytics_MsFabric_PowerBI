@@ -30,6 +30,7 @@ Screenshots
 https://github.com/Snehaingale777/Sales_Analytics_MsFabric_PowerBI/blob/main/pipeline%20sales%20analytics.jpg
 https://github.com/Snehaingale777/Sales_Analytics_MsFabric_PowerBI/blob/main/lakehouse%20fact%20table.jpg
 https://github.com/Snehaingale777/Sales_Analytics_MsFabric_PowerBI/blob/main/warehouse%20stored%20procedure%20top%2010.jpg
+https://github.com/Snehaingale777/Sales_Analytics_MsFabric_PowerBI/blob/main/Static%20RLS.jpg
 
 [add your screenshots here: pipeline, Lakehouse tables, warehouse view/stored procedure, RLS setup, dashboard]
 
