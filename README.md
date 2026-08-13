@@ -1,6 +1,6 @@
 # Sales_Analytics_MsFabric_PowerBI
 
-Tools: Microsoft Fabric (Pipelines, Notebooks/PySpark, Lakehouse, Warehouse, Star Schema, Semantic Model), Power BI Dataset: Simulated sales orders (1,000 orders, 93 customers, 3 product categories, 4 regions, 2023-2024) Live report: [add your link here]
+Tools: Microsoft Fabric (Pipelines, Notebooks/PySpark, Lakehouse, Warehouse, Star Schema, Semantic Model), Power BI Dataset: Simulated sales orders (1,000 orders, 93 customers, 3 product categories, 4 regions, 2023-2024) Live report: https://github.com/Snehaingale777/Fabric/blob/main/sales_data.csv
 
 Why I built this
 
